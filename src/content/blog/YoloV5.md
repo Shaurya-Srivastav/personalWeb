@@ -1,15 +1,20 @@
 ---
-author: Sat Naing
-pubDatetime: 2023-01-30T15:57:52.737Z
-title: AstroPaper 2.0
-postSlug: astro-paper-2
+author: Shaurya Srivastav
+pubDatetime: 2022-10-22T04:33:19Z
+title: Alertness Detection using YoloV5
+postSlug: Alertness-Detection-using-YoloV5
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
-  - release
-description: AstroPaper with the enhancements of Astro v2. Type-safe markdown contents, bug fixes and better dev experience etc.
+  - Machine Learning
+  - Supervised Learning
+  - Multi-class Classification
+  - COCO Dataset
+  - YoloV5 Architecture
+  - Hyperparameter tuning
+  - Feature Extraction
+description: OpenCV application built with a multi-class classification model to determine alertness. Optimized model performance by conducting hyperparameter tuning and utilizing transfer learning techniques such as fine-tuning and feature extraction.
 ---
-
 Astro 2.0 has been released with some cool features, breaking changes, DX improvements, better error overlay and so on. AstroPaper takes advantage of those cool features, especially Content Collections API.
 
 <!-- ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png) -->
