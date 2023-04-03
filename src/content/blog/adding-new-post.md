@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Shaurya Srivastav
 pubDatetime: 2022-09-23T15:22:00Z
 title: Adding new posts in AstroPaper theme
 postSlug: adding-new-posts-in-astropaper-theme
@@ -24,9 +24,9 @@ Here is the list of frontmatter property for each post.
 
 | Property                  | Description                                                                     | Remark                                        |
 | ------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------- |
-| **_title_**       | Title of the post. (h1)                                                         | required`<sup>`\*`</sup>`                 |
-| **_description_** | Description of the post. Used in post excerpt and site description of the post. | required`<sup>`\*`</sup>`                 |
-| **_pubDatetime_** | Published datetime in ISO 8601 format.                                          | required`<sup>`\*`</sup>`                 |
+| **_title_**       | Title of the post. (h1)                                                         | required `<sup>`\*`</sup>`                |
+| **_description_** | Description of the post. Used in post excerpt and site description of the post. | required `<sup>`\*`</sup>`                |
+| **_pubDatetime_** | Published datetime in ISO 8601 format.                                          | required `<sup>`\*`</sup>`                |
 | **_author_**      | Author of the post.                                                             | default = SITE.author                         |
 | **_postSlug_**    | Slug for the post. Will automatically be slugified.                             | default = slugified title                     |
 | **_featured_**    | Whether or not display this post in featured section of home page               | default = false                               |
